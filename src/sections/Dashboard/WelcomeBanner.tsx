@@ -107,7 +107,7 @@ export function WelcomeBanner() {
       </div>
       <Buttons>
         <button onClick={() => window.open('https://jup.ag/swap/SOL-DOBI', '_blank')}>
-          🚀 Add Liqudity
+          🚀 Buy DOBI
         </button>
         <button onClick={() => window.open('https://twitter.com/DobiOnSolana', '_blank')}>
           👨‍💻 Follow us on Twitter
