@@ -100,19 +100,19 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to Gamba v2 👋</h1>
+        <h1>Welcome to DOBI Play v1 👋</h1>
         <p>
-          A fair, simple and decentralized casino on Solana.
+          A fair, simple and decentralized casino on Solana powered by DOBI.
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
+        <button onClick={() => window.open('https://jup.ag/swap/SOL-DOBI', '_blank')}>
           🚀 Add Liqudity
         </button>
-        <button onClick={() => window.open('https://github.com/gamba-labs/gamba', '_blank')}>
-          👨‍💻 Build your own
+        <button onClick={() => window.open('https://twitter.com/DobiOnSolana', '_blank')}>
+          👨‍💻 Follow us on Twitter
         </button>
-        <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
+        <button onClick={() => window.open('https://discord.com/invite/FDXABRazjH', '_blank')}>
           💬 Discord
         </button>
       </Buttons>
