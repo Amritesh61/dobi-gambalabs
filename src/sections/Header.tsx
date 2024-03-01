@@ -71,7 +71,7 @@ export default function Header() {
       <StyledHeader>
         <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
           <Logo to="/">
-            <img alt="Gamba logo" src="/logo.png" />
+            <img alt="Gamba logo" src="/logo.png" style={{ width: '150%', height: '150%' }} />
           </Logo>
         </div>
         <div style={{ display: 'flex', gap: '10px', alignItems: 'center', position: 'relative' }}>
